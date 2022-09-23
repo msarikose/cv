@@ -1,0 +1,26 @@
+body {
+  background-color: #FFE8E3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+
+h1 {
+  font-family: cursive;
+  color: #FF8870
+}
+
+h2 {
+  font-family: cursive;
+  color: #FF8870
+}
+
+h3 {
+  font-family: cursive;
+  color: #FF8870
+}
